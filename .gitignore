@@ -1,0 +1,17 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
+.env
+.agents/
+.codex/
+.aws/
+
+.attach_pid*
+
+# Fichiers du sujet conservés uniquement en local
+*.pdf
+README.md
+docs/
